@@ -1,4 +1,15 @@
-# Irakli Svanidze
+# Angel Jaime
+
+<h2 align="center">About me</h2>
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
 
 func main() {
 	for k, v := range GetBio() {

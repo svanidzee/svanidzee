@@ -16,7 +16,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - JavaScript, 
 - React, Redux, React-Router, Next.js
 
-## 🧠 Currentl- HTML5
+## 🧠 Currently learning
 - Node.js, Express.js, MongoDB
 
 ### 🔧 Tool

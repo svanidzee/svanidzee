@@ -1,78 +1,44 @@
-# Angel Jaime
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
-<h2 align="center">About me</h2>
+Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
 
-```golang
-package main
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
 
-import (
-	"fmt"
-)
+## 🔭 Goals of 2020
 
-type Bio map[string]string
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Antd, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Redux-Saga React-Router, Next.js
+- Vue, Vuex, Vue-Router
+- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
-```
+### 🔧 Tool
+- Version Control(Git/it-Flow)
+- Test Driven Developer
+- Open Source Projects
+- Travis-CI
 
-<h2 align="center">You can reach me at :alien:</h2>
+## 💡 Projects
+- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
+- [Hangman](https://ms314006.github.io/hangman/dist/)
+- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
+- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
+- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
 
-<p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
+## 🔗 Get in touch
+- Personal site: http://ms314006.github.io/
+- Dev.to: https://dev.to/ms314006
+- StackOverflow: https://stackoverflow.com/users/10421516/clark
+- Medium: https://medium.com/@GQSM
+----
+Credit: [ms314006](https://github.com/ms314006)
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
-
-
+Last Edited on: 19/11/2020

@@ -12,25 +12,18 @@ I want to learn English. Now I watch English youtube channels and articles every
 ### 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
-- JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+- Material-ui, Semantic UI
+- JavaScript, 
+- React, Redux, React-Router, Next.js
+
+## 🧠 Currentl- HTML5
+- Node.js, Express.js, MongoDB
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
 
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
-
+- 
 ## 🔗 Get in touch
 - Personal site: http://ms314006.github.io/
 - Dev.to: https://dev.to/ms314006

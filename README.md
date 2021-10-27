@@ -30,6 +30,4 @@ I want to learn English. Now I watch English youtube channels and articles every
 - StackOverflow: https://stackoverflow.com/users/10421516/clark
 - Medium: https://medium.com/@GQSM
 ----
-Credit: [ms314006](https://github.com/ms314006)
 
-Last Edited on: 19/11/2020

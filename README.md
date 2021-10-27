@@ -1,13 +1,4 @@
-# Angel Jaime
-
-<h2 align="center">About me</h2>
-
-```golang
-package main
-
-import (
-	"fmt"
-)
+# Irakli Svanidze
 
 type Bio map[string]string
 

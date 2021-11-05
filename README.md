@@ -1,12 +1,10 @@
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hello Everyone :wave:!I'm Irakli Svanidze, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games. smile
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
+I love building things with code, especially a website. When, I was a kid I really wish that I could make a website share it to the world. Now, I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
 
 ## 🔭 Goals of 2021
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects make I can improve my skills of program.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
@@ -25,9 +23,5 @@ I want to learn English. Now I watch English youtube channels and articles every
 ## 💡 Projects
 - 
 ## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
-- Dev.to: https://dev.to/ms314006
-- StackOverflow: https://stackoverflow.com/users/10421516/clark
-- Medium: https://medium.com/@GQSM
-----
+- Personal site: 
 

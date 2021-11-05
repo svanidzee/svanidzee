@@ -1,6 +1,6 @@
-Hello Everyone :wave:!I'm Irakli Svanidze, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games. smile
+Hello Everyone :wave:! I'm Irakli Svanidze, a passionate beginner on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them truthful feedbacks. Besides coding, I also enjoy reading comics and playing video games
 
-I love building things with code, especially a website. When, I was a kid I really wish that I could make a website share it to the world. Now, I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
+I love building things with code, especially a website.I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
 
 ## 🔭 Goals of 2021
 

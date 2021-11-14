@@ -4,7 +4,7 @@ I love building things with code, especially a website.I am learning on how to c
 
 ## 🔭 Goals of 2021
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects make I can improve my skills of program.
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects so make I can improve my skills of program.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
@@ -15,7 +15,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - React, Redux, React-Router, Next.js
 
 ## 🧠 Currently learning
-- Node.js, Express.js, MongoDB
+- Node.js, Express.js, MongoDB(Basics)
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)

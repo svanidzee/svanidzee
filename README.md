@@ -9,10 +9,10 @@ I want to learn English. Now I watch English youtube channels and articles every
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5
-- CSS3, SCSS, SASS
+- CSS3, SCSS
 - Material-ui, Semantic UI
 - JavaScript, 
-- React, Redux, React-Router, Next.js
+- React, Redux, React-Router
 
 ## 🧠 Currently learning
 - Node.js, Express.js, MongoDB(Basics)

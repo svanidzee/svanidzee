@@ -12,7 +12,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - CSS3, SCSS
 - Material-ui, Semantic UI
 - JavaScript, 
-- React, Redux, React-Router
+- React, Redux, reduxjs/toolkit, React-Router
 
 ## 🧠 Currently learning
 - Node.js, Express.js, MongoDB(Basics)

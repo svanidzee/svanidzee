@@ -2,7 +2,7 @@ Hello Everyone :wave:! I'm Irakli Svanidze, a passionate beginner on frontend we
 
 I love building things with code, especially a website.I am learning on how to create websites to get a job as a Junior Frontend Web Developer.
 
-## 🔭 Goals of 2021
+## 🔭 Goals of 2022
 
 I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects so make I can improve my skills of program.
 
@@ -15,13 +15,9 @@ I want to learn English. Now I watch English youtube channels and articles every
 - React, Redux, reduxjs/toolkit, React-Router
 
 ## 🧠 Currently learning
-- Node.js, Express.js, MongoDB(Basics)
+- Next.js
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
 
-## 💡 Projects
-- 
-## 🔗 Get in touch
-- Personal site: 
 

@@ -10,9 +10,15 @@ I want to learn English. Now I watch English youtube channels and articles every
 ### 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS
-- Material-ui, Semantic UI
+- Material-ui, Semantic UI, Chakra UI, Theme UI
 - JavaScript, 
-- React, Redux, reduxjs/toolkit, React-Router
+- React,
+- Next.js
+- Redux, reduxjs/toolkit, 
+- React-Router, 
+- Git
+- Github
+- Npm
 
 ## 🧠 Currently learning
 - Next.js

@@ -16,14 +16,9 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Next.js
 - Redux, reduxjs/toolkit, 
 - React-Router, 
-- Git
-- Github
-- Npm
-
-## 🧠 Currently learning
-- Next.js
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
+- Nm
 
 

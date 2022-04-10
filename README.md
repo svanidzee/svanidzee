@@ -16,6 +16,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Next.js
 - Redux, reduxjs/toolkit, 
 - React-Router, 
+- Graphql(Apollo-client, Apollo-server)
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)

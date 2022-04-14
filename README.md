@@ -10,7 +10,7 @@ I want to learn English. Now I watch English youtube channels and articles every
 ### 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS
-- Material-ui, Semantic UI, Chakra UI, Theme UI
+- Material-ui, Semantic UI, Chakra UI, Theme UI, Styled components
 - JavaScript, 
 - React,
 - Next.js
@@ -20,6 +20,6 @@ I want to learn English. Now I watch English youtube channels and articles every
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
-- Nm
+- Nmp
 
 

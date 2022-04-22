@@ -19,7 +19,8 @@ I want to learn English. Now I watch English youtube channels and articles every
 - Graphql(Apollo-client, Apollo-server)
 
 ### 🔧 Tool
-- Version Control(Git/it-Flow)
+- Git
+- Github
 - Nmp
 
 

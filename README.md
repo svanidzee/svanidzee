@@ -1,2 +1,2 @@
 
-![](https://media.tenor.com/DHfQs8BKUvIAAAAS/kid-study.gif))
+![](https://media.tenor.com/DHfQs8BKUvIAAAAM/kid-study.gif))
